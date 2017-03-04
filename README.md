@@ -10,7 +10,8 @@
 
 ### PSY
 
-*Description:* Toolbox for automatic evaluation of predictive power of imaging biomarkers [Repository](github.com/raamana/psy)
+*Description:* Toolbox for automatic evaluation of predictive power of imaging biomarkers 
+[Repository](https://github.com/raamana/psy)
 
 ### MARINeR
 
