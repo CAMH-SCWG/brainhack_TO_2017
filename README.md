@@ -18,3 +18,6 @@
 *Description:* Multivariate analysis resampling inference for Neuroimaging in R.
 [Repository](https://github.com/derekbeaton/BrainHack_TO_2017)
 
+### Neurodoro
+
+*Description:* A brain-responsive Pomodoro timer for maximum productivity. [Repository](https://github.com/jdpigeon/neurodoro)
